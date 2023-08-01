@@ -1,0 +1,47 @@
+.plans{
+    padding: 5.6vw;
+    
+    h2 {
+        text-align: center;
+    }
+
+    &__list {
+        display: flex;
+        justify-content: space-around; // espaçamento padrão
+        margin-top: 50px;
+
+        @media (max-width: 769px) {
+            display: block;
+        }
+        .button {
+            margin-top: 24px;
+        }
+
+        &__item{
+            text-align: center;
+            padding: 60px 44px 44px;
+            max-width: 380px;
+            width: 100%;
+
+            //selecionando o segundo item da lista
+            &:nth-child(2) {
+                background-image: url(../images/fundo_combo_plus.png);
+                background-repeat: no-repeat; // retira a repetição da imagem
+                background-size: contain; //escala img mantendo a proproção dela
+            }
+
+            img{
+                height: 83px;
+            }
+            strong{
+                display: block;
+                margin-top: 24px;
+            }
+        }
+
+    }
+    
+    p {
+        text-align: center;
+    }
+}
