@@ -13,3 +13,4 @@ Foi utilizado o HTML, CSS, SASS e Javascript para recriar a página inicial da p
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
    <img align="center" alt="VSCode" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png">
 
+Site hospedado na Vercel: https://clone-disneyplus-mocha-iota.vercel.app/
