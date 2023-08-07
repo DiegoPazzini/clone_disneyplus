@@ -1,9 +1,14 @@
 Disney+ Clone
 
+<h2>Descrição do Projeto</h2>
+
 Projeto de clone da página do Disney+.
 Foi utilizado o HTML, CSS, SASS e Javascript para recriar a página inicial da plataforma de stream Disney+.
-Site hospedado na Vercel: https://clone-disneyplus-mocha-iota.vercel.app/
 
+<h2>Visualização Online</h2>
+<p>A landing page do projeto está disponível para visualização na Vercel. Você pode acessá-la através do seguinte link:</p> https://clone-disneyplus-mocha-iota.vercel.app/
+
+<h2>Pré-visualização</h2>
 <img src="./src/images/hero_capa_readme.JPG" atl="capa projeto">
 
 ## Skills utilizadas:
