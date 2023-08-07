@@ -3,7 +3,7 @@
 <h2>Descrição do Projeto</h2>
 
 Projeto de clone da página do Disney+.
-Para a criação desse projeto foram utilizadas as seguintes tecnologias: o HTML, CSS, SASS e Javascript, recriando a página inicial da plataforma de stream da Disney. Utilização da metodologia BEM (Block Element Modifier) para boas práticas na estruturação do código CSS.
+Para a criação desse projeto foram utilizadas as seguintes tecnologias: o HTML, CSS, GULP, SASS e Javascript, recriando a página inicial da plataforma de stream da Disney. Utilização da metodologia BEM (Block Element Modifier) para boas práticas na estruturação do código CSS.
 
 <h2>Visualização Online</h2>
 <p>A landing page do projeto está disponível para visualização na Vercel. Você pode acessá-la através do seguinte link:</p> https://clone-disneyplus-mocha-iota.vercel.app/
