@@ -17,8 +17,8 @@ Para a criação desse projeto foram utilizadas as seguintes tecnologias: o HTML
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://w7.pngwing.com/pngs/632/184/png-transparent-gulp-hd-logo.png">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png">
+  <img align="center" alt="Gulp" height="30" width="40" src="https://w7.pngwing.com/pngs/632/184/png-transparent-gulp-hd-logo.png">
+  <img align="center" alt="Parcel" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png">
   <img align="center" alt="fde95-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
 
